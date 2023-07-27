@@ -1,4 +1,4 @@
-const host = "http://localhost:5000";
+const host = "https://chat-app-realtime-to0w.onrender.com";
 export const registerRouter = `${host}/api/auth/register`;
 export const loginRouter = `${host}/api/auth/login`;
 export const setAvatarRouter = `${host}/api/auth/setAvatar`; 
